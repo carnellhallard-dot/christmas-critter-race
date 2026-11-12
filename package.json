@@ -1,8 +1,0 @@
-{
-  "name": "colleague-mood-pond",
-  "version": "1.0.0",
-  "private": true,
-  "description": "A live, playful wellbeing check-in with colleagues in animal boats.",
-  "scripts": { "start": "node server.js" },
-  "engines": { "node": ">=18" }
-}
