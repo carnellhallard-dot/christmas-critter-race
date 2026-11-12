@@ -1,0 +1,8 @@
+{
+  "name": "christmas-critter-race",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Live, silly Christmas animal race for colleagues",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=18"}
+}
